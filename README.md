@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-<figure><embed src="https://wakatime.com/share/@matteo_psnt/0888e17f-77df-48a8-9443-dcd5a1728bcf.svg"></embed></figure>
+[![wakatime](https://wakatime.com/badge/user/011f2746-4b33-4443-8714-b7d82d5c9bd4.svg)](https://wakatime.com/@011f2746-4b33-4443-8714-b7d82d5c9bd4)
 
 
 <!--
