@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<figure><embed src="https://wakatime.com/share/@matteo_psnt/0888e17f-77df-48a8-9443-dcd5a1728bcf.svg"></embed></figure>
+
+
 <!--
 **matteo-psnt/matteo-psnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
