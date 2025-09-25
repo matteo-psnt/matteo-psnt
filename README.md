@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/011f2746-4b33-4443-8714-b7d82d5c9bd4.svg)](https://wakatime.com/@011f2746-4b33-4443-8714-b7d82d5c9bd4)
 
-
+[![wakatime](https://wakatime.com/share/@matteo_psnt/b72886bf-03d4-4e0b-b776-bdac0a50b523.svg)](https://wakatime.com/share/@matteo_psnt/b72886bf-03d4-4e0b-b776-bdac0a50b523.svg)
 <!--
 **matteo-psnt/matteo-psnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
